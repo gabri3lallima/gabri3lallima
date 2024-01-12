@@ -1,4 +1,4 @@
-# Olá, eu sou o MrPeteerDevBr! 👋
+# Olá, eu sou o Proxy!👋
 
 ## Sobre Mim
 
@@ -12,8 +12,8 @@ Sou um entusiasta da programação apaixonado por desenvolvimento de bots para D
 
 ## Contato
 
-- **GitHub:** [MrPeteerDevBr](https://github.com/MrPeteerDevBr)
-- **Twitter:** [@MrPeteerDevBr](https://twitter.com/MrPeteerDevBr)
+- **GitHub:** [Proxy](https://github.com/MrPeteerDevBr)
+- **Twitter:** [@Proxy](https://twitter.com/MrPeteerDevBr)
 
 ## Vamos Colaborar!
 
