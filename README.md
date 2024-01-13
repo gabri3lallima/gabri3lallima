@@ -1,17 +1,10 @@
-# Olá, eu sou o Proxy!👋
+# Proxy Dev
 
-## 📂 Sobre Mim
+CTO @Coming soon...
 
-Sou um entusiasta da programação apaixonado por desenvolvimento de bots para Discord. Meu foco principal é nas linguagens Java, usando a biblioteca JDA, e Python, com o discord.py. Sempre buscando aprender e aprimorar minhas habilidades, estou constantemente explorando novas tecnologias e conceitos.
+[![Twitter Badge](https://img.shields.io/badge/-@proxydev_1-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/proxydev_1)](https://twitter.com/proxydev_1) 
 
-## 📞 Contato
-
-- **GitHub:** [Proxy](https://github.com/proxydev1)
-- **Twitter:** [@Proxy](https://twitter.com/proxydev_1)
-
-## 🌟 Vamos Colaborar!
-
-Estou sempre aberto a colaborações e novas ideias. Se você tem um projeto interessante ou gostaria de contribuir para algum dos meus projetos, fique à vontade para entrar em contato!
+Enthusiast & Brazilian developer 🟡🟢
 
 ## 🔨 Linguagens e Ferramentas
 
