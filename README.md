@@ -2,7 +2,7 @@
 
 CTO @Coming soon...
 
-[![Twitter Badge](https://img.shields.io/badge/-@proxydev_1-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/proxydev_1)](https://twitter.com/proxydev_1) 
+[![Twitter Badge](https://img.shields.io/badge/-@gabri3lallima-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/gabri3allima)](https://twitter.com/gabri3lallima) 
 
 Enthusiast & Brazilian developer 🟡🟢
 
