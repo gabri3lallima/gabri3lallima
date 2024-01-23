@@ -8,6 +8,6 @@ Enthusiast & Brazilian developer 🟡🟢
 
 ## 🔨 Linguagens e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
