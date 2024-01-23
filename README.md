@@ -10,4 +10,4 @@ Enthusiast & Brazilian developer 🟡🟢
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,idea)](https://skillicons.dev)
