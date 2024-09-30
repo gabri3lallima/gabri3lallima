@@ -12,3 +12,5 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,java,kotlin,py,ts,php,react,vite,nextjs,tailwind)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,docker,mysql,postgres,bash,notion,gradle,linux,windows)](https://skillicons.dev)
+
+Contact me on my [Instagram](https://www.instagram.com/_.gabrielalmeida_/)
