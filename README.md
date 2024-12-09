@@ -7,7 +7,7 @@
 - I'm Founder, CEO & CTO at Infinite Cloud (comming soon...)
 - I'm very extrovert!
 
-## 💻 Languages adn Tools
+## 💻 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,java,kotlin,py,ts,php,react,vite,nextjs,tailwind)](https://skillicons.dev)
 
